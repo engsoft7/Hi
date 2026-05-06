@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @mayconls77
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking today to collaborate on open source projects in Java, Android and others languagens
+- 📫 How to reach me contact maycon.engineer@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love technology
+- ⚡ Fun fact: I love technology and agronomy
 
 <!---
-Ztecn/Ztecn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
